@@ -3,7 +3,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
 public class rgbButtons extends JFrame implements ActionListener{
     JFrame jf = new JFrame();
     JPanel jp = new JPanel();
